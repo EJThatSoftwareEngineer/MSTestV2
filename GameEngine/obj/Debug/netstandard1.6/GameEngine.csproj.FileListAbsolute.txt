@@ -1,0 +1,9 @@
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojAssemblyReference.cache
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\Users\EJ\Desktop\mstest-v2-automated-testing\02\demos\before\02FirstTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb

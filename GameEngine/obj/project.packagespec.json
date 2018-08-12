@@ -1,0 +1,42 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\EJ\\Desktop\\mstest-v2-automated-testing\\02\\demos\\before\\02FirstTest\\GameEngine\\GameEngine.csproj",
+    "projectName": "GameEngine",
+    "projectPath": "C:\\Users\\EJ\\Desktop\\mstest-v2-automated-testing\\02\\demos\\before\\02FirstTest\\GameEngine\\GameEngine.csproj",
+    "outputPath": "C:\\Users\\EJ\\Desktop\\mstest-v2-automated-testing\\02\\demos\\before\\02FirstTest\\GameEngine\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard1.6"
+    ],
+    "frameworks": {
+      "netstandard1.6": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[1.6.1, )",
+          "autoReferenced": true
+        },
+        "System.Threading.Thread": {
+          "target": "Package",
+          "version": "[4.3.0, )"
+        }
+      }
+    }
+  }
+}
